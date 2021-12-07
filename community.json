@@ -167,6 +167,15 @@
       "discussion_url": "https://llllllll.co/t/benjolis/28061"
     },
     {
+      "project_name": "bidiwave",
+      "project_url": "https://github.com/fivedollarman/bidiwave",
+      "author": "marcocinque",
+      "description": "wavetable synth",
+      "discussion_url": "https://llllllll.co/t/bidiwave-a-wavetable-synth-for-monome-norns"
+      "documentation_url": "https://llllllll.co/t/bidiwave-a-wavetable-synth-for-monome-norns",
+      "tags": ["synth", "midi"]
+    },
+    {
       "project_name": "bistro",
       "project_url": "https://github.com/cfdrake/bistro",
       "author": "Colin Drake (cfd90)",
@@ -463,6 +472,15 @@
       "discussion_url": "https://l.llllllll.co/fiahod",
       "documentation_url": "https://norns.community/authors/northern-information/fiahod",
       "tags": ["generative"]
+    },
+    {
+      "project_name": "fiiiiive",
+      "project_url": "https://github.com/fivedollarman/fiiiiive",
+      "author": "marcocinque",
+      "description": "alchemic sequencer",
+      "discussion_url": "https://llllllll.co/t/fiiiiive-alchemic-sequencer-for-norns",
+      "documentation_url": "https://llllllll.co/t/fiiiiive-alchemic-sequencer-for-norns",
+      "tags": ["sequencer", "midi"]
     },
     {
       "project_name": "flora",

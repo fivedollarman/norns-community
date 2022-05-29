@@ -893,6 +893,14 @@
       "tags": ["synth", "sequencer", "grid"]
     },
     {
+      "project_name": "MPCgrain",
+      "project_url": "https://github.com/fivedollarman/MPCgrain",
+      "author": "fivedollarman",
+      "description": "granular music production center",
+      "discussion_url": "https://llllllll.co/t/mpcgrain/55712",
+      "tags": ["granulators", "samplers", "midi"]
+    },
+    {
       "project_name": "msh",
       "project_url": "https://github.com/AndrewShike/msh",
       "author": "andrew",

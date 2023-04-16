@@ -282,6 +282,17 @@
       ]
     },
     {
+      "project_name": "bidiwave",
+      "project_url": "https://github.com/fivedollarman/bidiwave",
+      "author": "fivedollarman",
+      "description": "wavetable synth",
+      "discussion_url": "https://llllllll.co/t/bidiwave-a-wavetable-synth-for-monome-norns/49223",
+      "tags": [
+        "synth",
+        "midi"
+      ]
+    },
+    {
       "project_name": "bistro",
       "project_url": "https://github.com/cfdrake/bistro",
       "author": "cfd90",
@@ -815,6 +826,18 @@
       "tags": [
         "art",
         "generative"
+      ]
+    },
+    {
+      "project_name": "fiiiiive",
+      "project_url": "https://github.com/fivedollarman/bidiwave",
+      "author": "fivedollarman",
+      "description": "alchemic midi sequencer",
+      "discussion_url": "https://llllllll.co/t/fiiiiive-alchemic-midi-sequencer-for-norns/50909",
+      "tags": [
+        "sequencer",
+        "generative",
+        "midi"
       ]
     },
     {
@@ -1630,6 +1653,18 @@
         "mouse",
         "keyboard",
         "grid"
+      ]
+    },
+     {
+      "project_name": "MPCgrain",
+      "project_url": "https://github.com/fivedollarman/MPCgrain",
+      "author": "fivedollarman",
+      "description": "granular music production center",
+      "discussion_url": "https://llllllll.co/t/mpcgrain/55712",
+      "tags": [
+        "sampler",
+        "granular",
+        "midi"
       ]
     },
     {
